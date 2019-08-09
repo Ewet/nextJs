@@ -1,7 +1,7 @@
 {
   "name": "create-next-example-app",
   "scripts": {
-    "dev": "next -p 3002",
+    "dev": "next -p 3003",
     "build": "next build",
     "start": "next start"
   },

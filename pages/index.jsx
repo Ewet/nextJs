@@ -17,9 +17,6 @@ const Home = () => (
         </Link>
       </div>
     </div>
-
-    <style jsx>{`
-    `}</style>
   </div>
 )
 
